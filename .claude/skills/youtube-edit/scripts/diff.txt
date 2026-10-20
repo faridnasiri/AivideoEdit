@@ -1,0 +1,18 @@
+frame:0    pts:1024    pts_time:0.1
+lavfi.signalstats.YAVG=0.910156
+frame:1    pts:2048    pts_time:0.2
+lavfi.signalstats.YAVG=1.06641
+frame:2    pts:3072    pts_time:0.3
+lavfi.signalstats.YAVG=1.08464
+frame:3    pts:4096    pts_time:0.4
+lavfi.signalstats.YAVG=1.07161
+frame:4    pts:5120    pts_time:0.5
+lavfi.signalstats.YAVG=1.03472
+frame:5    pts:6144    pts_time:0.6
+lavfi.signalstats.YAVG=1.17361
+frame:6    pts:7168    pts_time:0.7
+lavfi.signalstats.YAVG=1.02691
+frame:7    pts:8192    pts_time:0.8
+lavfi.signalstats.YAVG=1.13802
+frame:8    pts:9216    pts_time:0.9
+lavfi.signalstats.YAVG=0.806424

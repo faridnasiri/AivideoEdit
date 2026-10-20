@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Rendered / working media (this bundle ships sources only)
+*.mp4
+*.mov
+*.wav
+*.m4a
+input-video.*
+output-4k*.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.venv/
+node_modules/

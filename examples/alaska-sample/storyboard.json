@@ -1,0 +1,20 @@
+{
+  "id": "alaska-sample",
+  "duration": 15.5,
+  "video": "input-video.mp4",
+  "origin": "52% 0%",
+  "beats": [],
+  "camera": [
+    ["creep", 0.0, 2.45, 1.04],
+    ["set", 2.5, 1.0],
+    ["creep", 2.55, 5.95, 1.04],
+    ["set", 6.0, 1.0],
+    ["creep", 6.05, 8.95, 1.04],
+    ["set", 9.0, 1.0],
+    ["creep", 9.05, 12.95, 1.04],
+    ["set", 13.0, 1.0],
+    ["creep", 13.05, 15.45, 1.04]
+  ],
+  "raw_html": "<div id=\"alaska-caption\" style=\"position:absolute;left:74px;top:84px;z-index:8;display:flex;align-items:center;padding:22px 40px 24px 30px;border-radius:24px;background:rgba(17,17,17,.55);backdrop-filter:blur(30px) saturate(1.25);-webkit-backdrop-filter:blur(30px) saturate(1.25);border:3px solid rgba(255,255,255,.38);box-shadow:0 24px 80px rgba(0,0,0,.38);\"><div id=\"alaska-inner\" style=\"display:flex;align-items:center;gap:20px;font-family:'DM Sans',ui-sans-serif,system-ui,sans-serif;font-weight:700;font-size:64px;line-height:1;letter-spacing:-.02em;color:#fff;text-shadow:0 4px 24px rgba(0,0,0,.45);\"><span style=\"width:16px;height:16px;border-radius:50%;background:#0AF0F0;box-shadow:0 0 20px rgba(10,240,240,.9);flex:none;\"></span><span>alaska</span></div></div>",
+  "raw_js": "tl.fromTo('#alaska-inner', { opacity: 0, y: -14 }, { opacity: 1, y: 0, duration: 0.45, ease: 'power2.out' }, 0.30);"
+}
